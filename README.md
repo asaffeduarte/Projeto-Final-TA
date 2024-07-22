@@ -1,4 +1,4 @@
-# Projeto-Final-TA
+# Final-Project-TA
 
 Repository intended for the 2024 Truing academy final project, which will evaluate the knowledge acquired by trainees and whose activity is to define a model for predicting employee hiring.
 
