@@ -1,6 +1,6 @@
 # Final-Project-TA
 
-Repository intended for the 2024 Turing academy final project, which will evaluate the knowledge acquired by trainees and whose activity is to define a model for predicting employee hiring.
+Repository intended for the 2024 Turing academy final project, which will evaluate the knowledge acquired by trainees and whose activity is to define a model for predicting a bank service contract.
 
 The project phases are:
 - Data Analysis and Cleaning: this phase evaluates the entire dataset and cleans possible errors in it
